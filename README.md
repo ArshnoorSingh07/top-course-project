@@ -66,10 +66,10 @@ The application runs at:
 
 
 ``` md
-![Home Page](screenshots/home.png)
-![loading Page](screenshots/loading.png)
-![filter page 1](screenshots/filter1.png)
-![filter page 2](screenshots/filter2.png)
+![Home Page](Screenshots/home.png)
+![loading Page](Screenshots/loading.png)
+![filter page 1](Screenshots/filter1.png)
+![filter page 2](Screenshots/filter2.png)
 ```
 
 ------------------------------------------------------------------------
