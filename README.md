@@ -65,12 +65,11 @@ The application runs at:
 ## Screenshots
 
 
-``` md
 ![Home Page](Screenshots/home.png)
 ![loading Page](Screenshots/loading.png)
 ![filter page 1](Screenshots/filter1.png)
 ![filter page 2](Screenshots/filter2.png)
-```
+
 
 ------------------------------------------------------------------------
 
